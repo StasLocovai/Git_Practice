@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F4AD-AB8F
+
+ Directory of C:\Users\user\Desktop\Git-Practice
+
+11/17/2024  08:59 PM    <DIR>          .
+11/17/2024  08:58 PM    <DIR>          ..
+11/17/2024  08:59 PM                 0 1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  416,422,862,848 bytes free
